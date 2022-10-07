@@ -1,0 +1,9 @@
+{
+  "name": "type-fuckery",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "tsc": "^2.0.4",
+    "typescript": "^4.8.4"
+  }
+}
